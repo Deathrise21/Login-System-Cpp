@@ -36,6 +36,7 @@ bool find(string search) {
     return found;
 }
 
+//finds the ussername in the file
 bool findUsername(string search) {
 
     bool found = false;
